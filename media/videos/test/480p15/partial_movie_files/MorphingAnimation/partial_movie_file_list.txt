@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/1185818338_3789429803_223132457.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_4217992463_151624741.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_170044483_578674303.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_4217992463_2245215879.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_1975530284_2373750003.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_4217992463_1159612272.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_63855642_3658949616.mp4'
+file 'file:C:/Users/Aadi Jha/Documents/physics-walle/media/videos/test/480p15/partial_movie_files/MorphingAnimation/624642324_4217992463_3968961708.mp4'
